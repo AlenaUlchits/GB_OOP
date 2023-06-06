@@ -40,8 +40,8 @@ public class VendingMachineImpl implements IVendingMachine{
         }
     }
 
-    public void  getProductInfo(List<HotDrink> drinks, double volume){
-        if(!drinks.isEmpty()) {
+    public void  getProductInfo(List<HotDrink> drinks, Double volume){
+        if(!drinks.isEmpty() && drinks.stream().anyMatch(d -> d.getVolume() == volume)) {
             drinks.stream().filter(d -> d.getVolume() == volume)
                     .forEach(hd -> {
                         if(hd instanceof HotChocolate){
@@ -59,6 +59,8 @@ public class VendingMachineImpl implements IVendingMachine{
                          System.out.println(hd.showProdInfo());
                     }
                     );
+        }else{
+            System.out.println("Sorry we don't have any drinks with such volume.");
         }
     }
 }
