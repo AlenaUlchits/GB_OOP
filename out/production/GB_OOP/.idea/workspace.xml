@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8408dbf-bb7c-4627-ac73-b3dc03cc9651" name="Changes" comment="hw1, h2" />
+    <list default="true" id="d8408dbf-bb7c-4627-ac73-b3dc03cc9651" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GB_OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/HotChocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/HotDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/IVendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw1/VendingMachineImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw2/MainProg.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,23 +73,11 @@
       <updated>1685722926966</updated>
       <workItem from="1685722929738" duration="7712000" />
       <workItem from="1686064703272" duration="1302000" />
-      <workItem from="1686068917564" duration="1294000" />
+      <workItem from="1686068917564" duration="967000" />
     </task>
-    <task id="LOCAL-00001" summary="hw1, h2">
-      <created>1686070124083</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1686070124083</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="hw1, h2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw1, h2" />
   </component>
 </project>
